@@ -5,8 +5,8 @@
 // @description  Replace dot with comma in number input fields
 // @author       Your Name
 // @match        https://apps.compass-group.digital/*
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/PGCompass/Matrix/raw/refs/heads/main/Matrix_ReplaceDotWithComma.user.js
+// @downloadURL  https://github.com/PGCompass/Matrix/raw/refs/heads/main/Matrix_ReplaceDotWithComma.user.js
 // @grant        none
 // ==/UserScript==
 
