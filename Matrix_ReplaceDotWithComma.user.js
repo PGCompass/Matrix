@@ -3,7 +3,7 @@
 // @namespace    https://github.com/PGCompass/Matrix/issues
 // @version      1.0
 // @description  Replace dot with comma in number input fields
-// @author       Your Name
+// @author       Pierre GARDIE - Compass Group France
 // @match        https://apps.compass-group.digital/*
 // @updateURL    https://github.com/PGCompass/Matrix/raw/refs/heads/main/Matrix_ReplaceDotWithComma.user.js
 // @downloadURL  https://github.com/PGCompass/Matrix/raw/refs/heads/main/Matrix_ReplaceDotWithComma.user.js
