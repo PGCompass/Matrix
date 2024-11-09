@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         Matrix - Replace . par ,
-// @namespace    https://github.com/PGCompass/Matrix/issues
 // @version      1.0
 // @description  Replace dot with comma in number input fields
 // @author       Pierre GARDIE - Compass Group France
