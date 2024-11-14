@@ -14,7 +14,7 @@
 
     document.addEventListener('keypress', function(event) {
         // Check if the key pressed is a dot (.)
-        if (event.key === '.') {
+        if (event.key === '.' || event.code === 'NumpadDecimal') {
             // Prevent the default action (adding the dot to the input)
             event.preventDefault();
 
